@@ -1,0 +1,45 @@
+\documentclass[12pt,a4paper]{article}%шаблон для статьи, шрифт 12 пт
+\usepackage[utf8x]{inputenc} %использование кодировки Юникод UTF-8
+\usepackage[russian]{babel} %пакет поддержки русского языка
+\usepackage{lipsum}%Рыба-текст
+\usepackage[compact]{titlesec}%для titlespacing
+\titlespacing*{\section}{0.75cm}{1em}{0.1em}%отступ заголовка
+%\titlespacing{\заголовок}{слева}{перед}{после}[справа]
+\titlespacing*{\subsection}{0.75cm}{1em}{0.1em}
+\usepackage{indentfirst}%отступ первого абзаца
+\setlength{\parindent}{0.75cm}
+\usepackage[labelsep=endash]{caption}%тире вместо двоеточия в картинках
+\usepackage{graphicx}%кртинки
+\usepackage{comment}%комментарии
+\usepackage{tabularx}%таблицы
+\usepackage{color}%     цветной код
+\usepackage{listings}%листинги кода из файлов
+\usepackage{cite}
+
+
+%перенос строк внутри таблиц
+\newcommand{\specialcell}[2][c]{%
+	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\usepackage[labelsep=endash]{caption} %тире вместо двоеточия в названиях 
+\renewcommand\thefigure{\arabic{section}.\arabic{figure}}
+%\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.} % Сквозная нумерация
+
+\begin{document}
+
+\begin{center}
+	\large{\textbf{Composition\\Summer 2020}}
+	\begin{flushright}
+		Leskin Kirill \\
+		9892
+	\end{flushright}
+\end{center}
+
+This summer wasn't as funny as others because of "lockdown". The virus cut out everyone from the outer world and I haven't become an exception. Our company forced us to work from home, but it wasn't as bad as I thought because I didn't have to wake up early an go to the office. Instead of that I woke up 10 minutes before the working day started.
+
+Despite the virus, this summer I had fun and I've done lots of work. I have started working on my own project, which is a game on Android. I've begun practicing blind typing (by the way, I've typed this text without looking on the keyboard). Also, I've done some repair on our balcony with my girlfriend I live with.
+
+Moreover I've went to my dacha several times and there I've done a lot of work on repearing the house. On the dacha, it was a nice time to ride a bicycle about 20km, swim in the lake which was very clear and full of fish we could see from the beach, and other activities.
+
+I've had too few outgoings this summer and I'm fully destroyed by this fact. But it is not a reason to stop. Always trying to move forward and self-developing makes me happier and still I enjoy every day.
+\end{document}
