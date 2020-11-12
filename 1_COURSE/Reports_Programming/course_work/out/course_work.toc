@@ -1,0 +1,35 @@
+\babel@toc {russian}{}
+\contentsline {section}{\IeC {\CYRV }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{7}{}%
+\contentsline {section}{\numberline {1}\IeC {\CYRV }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrsh }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrf }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrm }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyrery } \IeC {\cyrh }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrya } \IeC {\cyrd }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh }}{8}{}%
+\contentsline {section}{\numberline {2}\IeC {\CYRV }\IeC {\cyrn }\IeC {\cyru }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrf }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrm }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyrery } \IeC {\cyrh }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrya } \IeC {\cyrd }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh }}{9}{}%
+\contentsline {section}{\numberline {3}\IeC {\CYRO }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrz }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyri }\IeC {\cyrh } \IeC {\cyrf }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrishrt } \IeC {\cyri } \IeC {\cyrm }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyru }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrishrt } \IeC {\cyrp }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyrm }\IeC {\cyrery }}{10}{}%
+\contentsline {section}{\numberline {4}\IeC {\CYRO }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyri }\IeC {\cyrn }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyrf }\IeC {\cyre }\IeC {\cyrishrt }\IeC {\cyrs }\IeC {\cyra } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrz }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyrya }}{11}{}%
+\contentsline {section}{\numberline {5}\IeC {\CYRO }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyra }\IeC {\cyrl }\IeC {\cyrg }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrt }\IeC {\cyrm }\IeC {\cyra } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyrery } \IeC {\cyrp }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyrm }\IeC {\cyrery }}{13}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } main}{13}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } openFile}{14}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } countVC}{14}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } writeFile}{14}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } countWords}{15}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } sortVC}{16}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } printFile}{16}{}%
+\contentsline {subsection}{\IeC {\CYRF }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyrk }\IeC {\cyrc }\IeC {\cyri }\IeC {\cyrya } calc}{17}{}%
+\contentsline {section}{\numberline {6}\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyrery } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyrery } \IeC {\cyrp }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyrm }\IeC {\cyrery }}{18}{}%
+\contentsline {section}{\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrl }\IeC {\cyryu }\IeC {\cyrch }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{29}{}%
+\contentsline {section}{\IeC {\CYRS }\IeC {\cyrp }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrk } \IeC {\cyri }\IeC {\cyrs }\IeC {\cyrp }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrz }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh } \IeC {\cyrs }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrch }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }}{30}{}%
+\contentsline {section}{\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrzh }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\CYRA } \IeC {\CYRI }\IeC {\cyrs }\IeC {\cyrh }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrishrt } \IeC {\cyrk }\IeC {\cyro }\IeC {\cyrd } \IeC {\cyrp }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyrm }\IeC {\cyrery }}{31}{}%
+\contentsline {subsection}{main.cpp}{31}{}%
+\contentsline {subsection}{openFile.cpp}{36}{}%
+\contentsline {subsection}{openFile.h}{38}{}%
+\contentsline {subsection}{countVC.cpp}{39}{}%
+\contentsline {subsection}{countVC.h}{40}{}%
+\contentsline {subsection}{writeFile.cpp}{41}{}%
+\contentsline {subsection}{writeFile.h}{44}{}%
+\contentsline {subsection}{countWords.cpp}{45}{}%
+\contentsline {subsection}{countWords.h}{47}{}%
+\contentsline {subsection}{sortVC.cpp}{48}{}%
+\contentsline {subsection}{sortVC.h}{51}{}%
+\contentsline {subsection}{printFile.cpp}{52}{}%
+\contentsline {subsection}{printFile.h}{53}{}%
+\contentsline {subsection}{Colors.h}{54}{}%
+\contentsline {subsection}{calck.cpp}{55}{}%
+\contentsline {subsection}{calck.h}{56}{}%
