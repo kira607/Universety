@@ -1,0 +1,7 @@
+﻿ 
+report_[предмет]_[курс].[семестр]_[название].[расширение]
+
+report_programming_2.1_lr1.pdf
+report_programming_2.1_cr.pdf
+report_physics_2.1_lr10.pdf
+
