@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.9)  12 NOV 2020 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.9)  30 NOV 2020 19:08
 entering extended mode
 **./course_work.tex
 (course_work.tex
@@ -749,11 +749,7 @@ Excluding 'comment' comment. [30] (src/main.cpp [31] [32] [33] [34]) [35]
 [48]) [49] [50] (src/sortVC.h) [51] (src/printFile.cpp) [52] (src/printFile.h)
 [53] (src/Colors.h) [54] (src/calck.cpp) [55] (src/calck.h) [56]
 (C:\Users\kiril\Universety\1_COURSE\Reports_Programming\course_work\out\course_
-work.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+work.aux) ) 
 Here is how much of TeX's memory you used:
  8408 strings out of 479799
  123687 string characters out of 2879599
@@ -762,21 +758,21 @@ Here is how much of TeX's memory you used:
  547068 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,14n,73p,1222b,1723s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti
-1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-lati1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
-pi600\tcrm1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\larm1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\labx1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/lj
-four/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts
-/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\kiril\AppData\Local\MiKTeX\f
-onts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\kiril\AppData\Local\MiKT
-eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\kiril\AppData\Local\
-MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Program Files/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb>
+ <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\tcti1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2
+a/dpi600\lati1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\tcrm1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/pk/l
+jfour/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fonts/
+pk/ljfour/lh/lh-t2a/dpi600\larm0600.pk> <C:\Users\kiril\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\kiril\AppData\Local\MiK
+TeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\kiril\AppData\Local
+\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\kiril\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\kiril\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk><C:/Program Files/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 Output written on C:\Users\kiril\Universety\1_COURSE\Reports_Programming\course
-_work\out\course_work.pdf (56 pages, 817574 bytes).
+_work\out\course_work.pdf (56 pages, 817573 bytes).
 PDF statistics:
  732 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
