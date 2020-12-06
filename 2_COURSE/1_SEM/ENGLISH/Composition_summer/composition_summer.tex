@@ -1,29 +1,9 @@
 \documentclass[12pt,a4paper]{article}%шаблон для статьи, шрифт 12 пт
 \usepackage[utf8x]{inputenc} %использование кодировки Юникод UTF-8
 \usepackage[russian]{babel} %пакет поддержки русского языка
-\usepackage{lipsum}%Рыба-текст
-\usepackage[compact]{titlesec}%для titlespacing
-\titlespacing*{\section}{0.75cm}{1em}{0.1em}%отступ заголовка
-%\titlespacing{\заголовок}{слева}{перед}{после}[справа]
-\titlespacing*{\subsection}{0.75cm}{1em}{0.1em}
+
 \usepackage{indentfirst}%отступ первого абзаца
 \setlength{\parindent}{0.75cm}
-\usepackage[labelsep=endash]{caption}%тире вместо двоеточия в картинках
-\usepackage{graphicx}%кртинки
-\usepackage{comment}%комментарии
-\usepackage{tabularx}%таблицы
-\usepackage{color}%     цветной код
-\usepackage{listings}%листинги кода из файлов
-\usepackage{cite}
-
-
-%перенос строк внутри таблиц
-\newcommand{\specialcell}[2][c]{%
-	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
-
-\usepackage[labelsep=endash]{caption} %тире вместо двоеточия в названиях 
-\renewcommand\thefigure{\arabic{section}.\arabic{figure}}
-%\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.} % Сквозная нумерация
 
 \begin{document}
 
