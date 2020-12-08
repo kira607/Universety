@@ -158,7 +158,7 @@ if __name__ == '__main__':
     for u in ug.pre.lst:
         bg = float(u) * k
         B_gamma.append(round(bg * 10 ** 5, 2))
-    B_gamma = list(map(lambda x: round(x * 10 ** -5, 10), B_gamma))
+    B_gamma = list(map(lambda x: round(x * 10 ** -5 * 10**6, 10), B_gamma))
 
     bg = PreInfo()
     bg.lst = B_gamma
@@ -184,16 +184,7 @@ if __name__ == '__main__':
     for u in uw.pre.lst:
         bb = float(u) * k
         B_B.append(round(bb * 10 ** 5, 2))
-    B_B = list(map(lambda x: round(x * 10 ** -5, 10), B_B))
-
-    li = str(B_B).replace("e-05", "").replace("[", "").replace("]", "").split(",")
-    print(li)
-    i = 0
-    for le in li:
-        li[i] = float(le)
-        i += 1
-    print(li)
-    print(sum(li))
+    B_B = list(map(lambda x: round(x * 10 ** -5 * 10 ** 6, 10), B_B))
 
     bb = PreInfo()
     bb.lst = B_B
@@ -205,10 +196,4 @@ if __name__ == '__main__':
     bb = Calc(bb)
     # bb.print()
 
-    for i in range(10):
-        print(i+1, " & ", ug.pre.lst[i], " \\\\", sep="")
-        print("\\hline")
-
-    for i in range(10):
-        print(i+1, " & ", uw.pre.lst[i], " \\\\", sep="")
-        print("\\hline")
+    print(f"{sqrt(18.61**2 + 54.18**2)}")
