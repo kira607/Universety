@@ -1,3 +1,5 @@
+from datetime import date, timedelta
+
 if __name__ == '__main__':
     b = [
         "b_1b_2",
@@ -9,5 +11,21 @@ if __name__ == '__main__':
 
     i = 1
     for bb in b:
-        print(f"$ \\beta_{i} = {bb} $\\\\")
+        # print(f"$ \\beta_{i} = {bb} $\\\\")
         i += 1
+
+    date_format = "%d.%m.%Y"
+    my_date = date(2020, 9, 14)
+
+    def switch(days):
+        if days == 3:
+            return 4
+        if days == 4:
+            return 3
+
+    days = 4
+
+    while my_date < date(2021, 1, 1):
+        print(my_date.strftime(date_format))
+        my_date += timedelta(days=days)
+        days = switch(days)
