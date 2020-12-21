@@ -197,17 +197,4 @@ if __name__ == '__main__':
     mup = pogreshnosti.Calc(mup)
     # mup.print()
 
-    ooo = [3.33,
-           1.78,
-           2.68,
-           1.80,
-           1.49,
-           2.68,
-           3.33,
-           1.90,
-           2.36,
-           1.49,
-           2.36,
-           2.36]
 
-    print(sum(ooo))
