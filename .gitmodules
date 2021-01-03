@@ -1,3 +1,30 @@
 [submodule "2_COURSE/1_SEM/PROGRAMMING"]
 	path = 2_COURSE/1_SEM/PROGRAMMING
 	url = https://github.com/kira607/programming_labs_3sem.git
+[submodule "1-2_sem"]
+	path = 1-2_sem
+	url = https://github.com/kira607/1-2_sem.git
+[submodule "3_sem"]
+	path = 3_sem
+	url = https://github.com/kira607/3_sem.git
+[submodule "4_sem"]
+	path = 4_sem
+	url = https://github.com/kira607/4_sem.git
+[submodule "5_sem"]
+	path = 5_sem
+	url = https://github.com/kira607/5_sem.git
+[submodule "6_sem"]
+	path = 6_sem
+	url = https://github.com/kira607/6_sem.git
+[submodule "7_sem"]
+	path = 7_sem
+	url = https://github.com/kira607/7_sem.git
+[submodule "8_sem"]
+	path = 8_sem
+	url = https://github.com/kira607/8_sem.git
+[submodule "9_sem"]
+	path = 9_sem
+	url = https://github.com/kira607/9_sem.git
+[submodule "10_sem"]
+	path = 10_sem
+	url = https://github.com/kira607/10_sem.git

@@ -1,6 +1,0 @@
-1111010011111010
-1 - 11
-0 - 5
-A1 - СКНФ
-
-!a!b!c!d + !a!b!cd + !a!bc!d + !a!bcd + !ab!cd + a!b!c!d + a!b!cd + a!bc!d + a!bcd + ab!c!d + abc!d 

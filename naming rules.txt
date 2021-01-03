@@ -1,0 +1,20 @@
+git submodule add https://github.com/kira607/1-2_sem.git
+git submodule add -f https://github.com/kira607/3_sem.git
+git submodule add -f https://github.com/kira607/4_sem.git
+git submodule add -f https://github.com/kira607/5_sem.git
+git submodule add -f https://github.com/kira607/6_sem.git
+git submodule add -f https://github.com/kira607/7_sem.git
+git submodule add -f https://github.com/kira607/8_sem.git
+git submodule add -f https://github.com/kira607/9_sem.git
+git submodule add -f https://github.com/kira607/10_sem.git
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
